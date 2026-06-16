@@ -1,0 +1,31 @@
+{
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    background-color:gold;
+    height: 100%;
+
+capa {
+    width: 100%;
+    object-fit: cover;
+    height: 400px; /* mudar */
+
+}
+
+infoHeader{
+    padding-top: 15px;
+    background-color: black;
+}
+
+titulo {
+    text-align: center;
+    color:beige;
+}
+
+nav a {
+    text-decoration: nome;
+    color:dodgerblue;
+    padding: 30px;
+    font-size: 20px;
